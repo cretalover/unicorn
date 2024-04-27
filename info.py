@@ -91,7 +91,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Shortlink Info
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'earnpro.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', '668fa4ea3c5aba86cd8016a44dcc8c6ab1ccae0a')
+SHORTLINK_API = environ.get('SHORTLINK_API', '95b93a1f8bac89585fe42a5312aeafb40e1e4b43')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "5")
