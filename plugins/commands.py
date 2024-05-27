@@ -106,7 +106,7 @@ async def start(client, message):
                 InlineKeyboardButton('📌 Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ 2 📌', url='https://t.me/RazerFlix')
             ],
             [
-                InlineKeyboardButton('📌 Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ 3 📌', url='https://t.me/fiercenetwork')
+                InlineKeyboardButton('📌 Jᴏɪɴ Oᴜʀ Cʜᴀɴɴᴇʟ 3 📌', url='https://t.me/GBIMAXPRIMIUM')
             ],[
                 InlineKeyboardButton('💠 Why I am Join 💠', callback_data='sinfo')
             ]
