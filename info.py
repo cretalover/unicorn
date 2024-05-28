@@ -66,7 +66,7 @@ OWNER_USERNAME = environ.get('OWNER_USERNAME', 'kingvj01') # owner username with
 
 # Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/moviesprimiumworld')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/mahi4999db')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/mahi4999')
 TUTORIAL = environ.get('TUTORIAL', 'https://t.me/MoviezProviderz/3')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/How_To_Open_Linkl')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Razer_supportx') # Support Chat Link Without https:// or @
