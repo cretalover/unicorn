@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/70cc37f108433acc21b17.jpg" alt="VJ-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  RAZER FILTER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Razer+Filter+Bot!)
