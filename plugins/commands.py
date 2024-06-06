@@ -302,10 +302,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(button)
                 )
                 filesarr.append(msg)
-                k = await client.send_message(chat_id = message.from_user.id, text=f"<b><u>♻️♻️♻️IMPORTANT♻️♻️♻️</u></b>\n\nThis Movie Files/Videos will be deleted in <b><u>10 mins</u> 🫥 <i></b>(Due to Copyright Issues)</i>.\n\n<b><i>Please forward this ALL Files/Videos to your Saved Messages and Start Download there</i><b>😊 AVAILABLE NOW IN ALL FORMAT  😀 \n\n✅2160p ✅1080p ✅720p ✅480p
-\n\n★━━━━━━━━━━━━━━━━━━★\n\n
-\n\n 🌟𝐉𝐎𝐈𝐍 ➳⃝⃝🇮🇳 @MAHI4999 \n\n
-\n\n★━━━━━━━━━━━━━━━━━━★\n\n</b></b>")
+                k = await client.send_message(chat_id = message.from_user.id, text=f"<b><u>♻️♻️♻️IMPORTANT♻️♻️♻️</u></b>\n\nThis Movie Files/Videos will be deleted in <b><u>10 mins</u> 🫥 <i></b>(Due to Copyright Issues)</i>.\n\n<b><i>Please forward this ALL Files/Videos to your Saved Messages and Start Download there</i><b>😊 AVAILABLE NOW IN ALL FORMAT  😀 \n\n✅2160p ✅1080p ✅720p ✅480p\n\n★━━━━━━━━━━━━━━━━━━★\n\n\n\n 🌟𝐉𝐎𝐈𝐍 ➳⃝⃝🇮🇳 @MAHI4999 \n\n\n\n★━━━━━━━━━━━━━━━━━━★\n\n</b></b>")
                 await asyncio.sleep(600)
                 for x in filesarr:
                     await x.delete()
