@@ -14,3 +14,4 @@ cd /VJ-FILTER-BOT
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
+# Ask Doubt on telegram @KingVJ01
